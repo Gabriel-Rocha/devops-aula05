@@ -2,4 +2,4 @@ languege: python
 python:
   - "3.4"
 script:
-  - cd src: python teste.py
+  - cd sr; python testes.py
